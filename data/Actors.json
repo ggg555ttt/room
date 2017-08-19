@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$fap001fc2","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"fap001k2","traits":[],"initialLevel":1,"maxLevel":99,"name":"小依","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"fap005k","traits":[],"initialLevel":1,"maxLevel":99,"name":"俊智","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":7,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"up006k3","traits":[],"initialLevel":1,"maxLevel":99,"name":"夜","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"wap002k","traits":[],"initialLevel":1,"maxLevel":99,"name":"天雪","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"np001k","traits":[],"initialLevel":1,"maxLevel":99,"name":"敏敏","nickname":"","note":"","profile":""}
+]
